@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">foodHunter</string>
+
+    //Login
+    <string name="userPass">nb : Username dan Password : admin</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="login_text">Login</string>
+    <string name="remember_text">Remember</string>
+
+    //List
+    <string name="listYk">Yogyakarta</string>
+    <string name="listBdg">Bandung</string>
+    <string name="listJkt">Jakarta</string>
+    <string name="listBl">Bali</string>
+
+    //Keterangan
+    <string name="ketSurabi">
+        Serabi (Sd. sorabi, surabi; Jw. srabi) merupakan jajanan pasar tradisional yang berasal dari Indonesia. Ada dua jenis serabi, yaitu serabi manis yang menggunakan kinca (gula merah cair) dan serabi asin dengan atau tanpa taburan oncom yang telah dibumbui di atasnya. Di Bandung, serabi biasa dijajakan di pagi hari dan dimasak menggunakan tungku sehingga menghasilkan rasa yang khas. Kadangkala telur ayam yang telah dikocok ditambahkan ke atas adonan serabi yang sedang dimasak.
+    </string>
+    <string name="ketKerak">
+        Kerak telur adalah makanan asli daerah Jakarta (Betawi), dengan bahan-bahan beras ketan putih, telur ayam, ebi (udang kering yang diasinkan) yang disangrai kering ditambah bawang merah goreng, lalu diberi bumbu yang dihaluskan berupa kelapa sangrai, cabai merah, kencur, jahe, merica butiran, garam dan gula pasir.
+    </string>
+    <string name="ketGudeg">
+        Gudeg (ejaan bahasa Jawa: gudheg) adalah makanan khas Yogyakarta dan Jawa Tengah yang terbuat dari nangka muda yang dimasak dengan santan. Perlu waktu berjam-jam untuk membuat masakan ini. Warna coklat biasanya dihasilkan oleh daun jati yang dimasak bersamaan.
+    </string>
+    <string name="ketAyam">
+        Betutu adalah lauk yang terbuat dari ayam atau bebek yang utuh yang berisi bumbu, kemudian dipanggang dalam api sekam. Betutu ini telah dikenal di seluruh kabupaten di Bali. Salah satu produsen betutu adalah desa Melinggih, kecamatam payangan kabupaten Gianyar.
+    </string>
+</resources>
